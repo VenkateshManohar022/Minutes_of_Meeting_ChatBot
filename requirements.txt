@@ -1,0 +1,7 @@
+gradio
+transformers
+ollama
+openai
+python-dotenv
+huggingface_hub
+hf-cli

@@ -6,6 +6,7 @@ from huggingface_hub import login
 from transformers import pipeline
 import ollama
 from openai import OpenAI
+import torch
 
 # -----------------------------
 # Suppress warnings for cleaner output
